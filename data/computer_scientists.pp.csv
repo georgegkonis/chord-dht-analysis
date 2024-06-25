@@ -1,0 +1,693 @@
+name,education,awards
+Atta ur Rehman Khan,"['University of Malaya', 'COMSATS University']",[]
+Wil van der Aalst,[],[]
+Scott Aaronson,"['Cornell University', 'University of California, Berkeley']","['Alan T. Waterman Award', 'PECASE', 'Tomassoni–Chisesi Prize', 'ACM Prize in Computing']"
+Rediet Abebe,"['Cornell University', 'University of Cambridge', 'Harvard University']",[]
+Hal Abelson,"['Princeton University', 'Massachusetts Institute of Technology']",['SIGCSE Award for Outstanding Contribution to Computer Science Education']
+Serge Abiteboul,['University of Southern California'],"['SIGMOD Edgar F. Codd Innovations Award', 'ACM Fellow', 'Milner Award', 'ISI highly cited researcher', 'citation needed', 'when?']"
+Samson Abramsky,"[""King's College, Cambridge"", 'Queen Mary University of London']","['FRS', 'FRSE', 'Lovelace Medal', 'ACM Fellow']"
+Leonard Adleman,"['University of California, Berkeley']",['Turing Award']
+Manindra Agrawal,['Indian Institute of Technology Kanpur'],"['Clay Research Award', 'S S Bhatnagar Prize', 'ICTP Prize', 'Fulkerson Prize', 'Gödel Prize', 'Infosys Prize', 'G.D. Birla Award for Scientific Research', 'Padma Shri']"
+Luis von Ahn,"['Duke University', 'Carnegie Mellon University']","['MacArthur Fellowship', 'Innovators Under 35', 'Lemelson–MIT Prize']"
+Alfred Aho,"['University of Toronto', 'Princeton University']","['FAAAS', 'IEEE Fellow', 'FACM', 'John von Neumann Medal', 'Turing Award']"
+Frances Allen,"['University at Albany', 'University of Michigan']","['ACM Fellow', 'IBM Fellow', 'Ada Lovelace Award', 'Computer Pioneer Award', 'Turing Award', 'Member of the National Academy of Sciences']"
+Gene Amdahl,"['South Dakota State University', 'University of Wisconsin']","['National Academy of Engineering', 'Computer History Museum']"
+David P. Anderson,"['Wesleyan University', 'University of Wisconsin-Madison']",['Presidential Young Investigator Award']
+Lisa Anthony,[],[]
+Andrew Appel,[],[]
+Cecilia R. Aragon,"['California Institute of Technology', 'University of California, Berkeley']",['Presidential Early Career Award for Scientists and Engineers']
+Bruce Arden,['Purdue University'],[]
+Kevin Ashton,[],[]
+Sanjeev Arora,"['Massachusetts Institute of Technology', 'UC Berkeley']",[]
+Winifred Asprey,"['Vassar College', 'University of Iowa']",[]
+John Vincent Atanasoff,"['University of Florida', 'Iowa State University', 'University of Wisconsin–Madison']",['Order of Saints Cyril and Methodius']
+Shaku Atre,"['University of Poona', 'University of Heidelberg']",[]
+Lennart Augustsson,[],[]
+Charles Babbage,"['Peterhouse, Cambridge']",['Gold Medal of the Royal Astronomical Society']
+Charles Bachman,"['University of Pennsylvania', 'Michigan State University']","['Turing Award', 'National Medal of Technology and Innovation', 'ACM Fellow']"
+Roland Carl Backhouse,"['Churchill College, Cambridge', 'Imperial College London']",[]
+John Backus,"['University of Virginia', 'University of Pittsburgh', 'Haverford College', 'Columbia University']","['National Medal of Science', 'Turing Award', 'Charles Stark Draper Prize']"
+David F. Bacon,['U.C. Berkeley'],['ACM Fellow']
+David Bader,"['Lehigh University', 'University of Maryland, College Park']","['AAAS Fellow', 'IEEE Fellow', 'SIAM Fellow', 'IEEE Computer Society', 'Sidney Fernbach Award', 'ACM Fellow']"
+Victor Bahl,"['University of Massachusetts, Amherst', 'Modern School, New Delhi']",[]
+Anthony James Barr,['North Carolina State University'],[]
+Jean Bartik,"['Northwest Missouri State Teachers College', 'University of Pennsylvania']","['Computer Pioneer Award', 'IEEE Computer Society', 'WITI Hall of Fame', 'Computer History Museum']"
+Andrew Barto,['University of Michigan'],"['IEEE Neural Networks Society', 'IJCAI Award for Research Excellence']"
+Friedrich L. Bauer,['Ludwig-Maximilians-Universität'],"['Iron Cross', 'Bundesverdienstkreuz', 'Computer Pioneer Award']"
+Rudolf Bayer,['University of Illinois at Urbana–Champaign'],"['Cross of Merit, First class', 'SIGMOD Edgar F. Codd Innovations Award']"
+Gordon Bell,['MIT'],"['National Medal of Technology', 'IEEE John von Neumann Medal', 'CHM']"
+Steven M. Bellovin,"['Columbia University', 'University of North Carolina at Chapel Hill']",[]
+Cecilia Berdichevsky,[],[]
+Tim Berners-Lee,"[""The Queen's College, Oxford""]","['Turing Award', 'Queen Elizabeth Prize', 'Foreign Associate of the National Academy of Sciences', 'Order of Merit', 'ACM Software System Award']"
+Daniel J. Bernstein,"['University of California, Berkeley', 'New York University']",[]
+Peter Bernus,[],[]
+Jeff Bezos,"['Princeton University', 'BSE']",[]
+Abhay Bhushan,"['Indian Institute of Technology Kanpur', 'Massachusetts Institute of Technology', 'MIT Sloan School of Management']",[]
+Dines Bjørner,['Technical University of Denmark'],"['Order of the Dannebrog', 'FME', 'IFIP']"
+Gerrit Blaauw,[],[]
+Sue Black,['London South Bank University'],[]
+David Blei,"['Brown University', 'University of California, Berkeley']","['PECASE', 'ACM Fellow']"
+Dorothy Blum,['Brooklyn College'],[]
+Lenore Blum,"['Simmons College', 'Massachusetts Institute of Technology']","['AAAS Fellow', 'Noether Lecture', 'PAESMEM']"
+Manuel Blum,['Massachusetts Institute of Technology'],"[""ACM's A.M. Turing Award, 1995""]"
+Barry Boehm,[],[]
+Corrado Böhm,['ETH Zürich'],[]
+Kurt Bollacker,[],[]
+Jeff Bonwick,[],[]
+Grady Booch,"['U.S. Air Force Academy', 'University of California, Santa Barbara']","['BCS Lovelace Medal', 'IBM Fellow']"
+George Boole,[],[]
+Andrew Donald Booth,['Jesus College'],[]
+Kathleen Booth,[],[]
+Anita Borg,['New York University'],[]
+Bert Bos,[],[]
+Mikhail Botvinnik,[],[]
+Jonathan Bowen,"['University College', 'Oxford']",['Charles Babbage Premium']
+Stephen R. Bourne,"[""King's College London"", 'Trinity College, Cambridge', 'Diploma in Computer Science']","['Fellow', 'Fellow', 'Royal Astronomical Society']"
+Harry Bouwman,['VU University Amsterdam'],[]
+Robert S. Boyer,['Mathematics'],[]
+Karlheinz Brandenburg,['University of Erlangen-Nuremberg'],['IEEE Masaru Ibuka Consumer Electronics Award']
+Gilles Brassard,[],"['FRS', 'Wolf Prize in Physics', 'Breakthrough Prize in Fundamental Physics']"
+Lawrence M. Breed,[],['Grace Murray Hopper Award']
+Jack Elton Bresenham,[],[]
+Sergey Brin,"['University of Maryland, College Park', 'Stanford University']",[]
+David J. Brown,[],[]
+Per Brinch Hansen,['Technical University of Denmark'],['IEEE Computer Pioneer Award']
+Sjaak Brinkkemper,[],[]
+Fred Brooks,"['Duke University', 'Harvard University']","['IEEE John von Neumann Medal', 'ACM Fellow', 'Turing Award', 'Member of the National Academy of Sciences', 'Turing Lecture']"
+Rodney Brooks,"['Stanford University', 'Flinders University']",['IJCAI Computers and Thought Award']
+Margaret Burnett,[],[]
+Rod Burstall,"['University of Cambridge', 'University of Birmingham']",['ACM']
+Michael Butler,"['Trinity College, Dublin', 'Wolfson College', 'Oxford']",[]
+Pino Caballero Gil,[],[]
+Tracy Camp,"['The College of William and Mary', 'Michigan State University', 'Kalamazoo College']",['ACM Fellow']
+Martin Campbell-Kelly,['Sunderland Polytechnic'],[]
+Rosemary Candlin,['University of Cambridge'],[]
+Rod Canion,[],[]
+Bryan Cantrill,[],[]
+Luca Cardelli,"['University of Pisa', 'University of Edinburgh']","['Dahl–Nygaard Prize', 'ACM Fellow']"
+John Carmack,[],[]
+Michael E. Caspersen,"['Aarhus U.', 'Aarhus U.', 'Aarhus U.']","['ACM', 'ACM', 'Aarhus U.', 'ACM SIGCSE Award for Outstanding Contribution to Computer Science Education']"
+Edwin Catmull,['University of Utah'],"['Academy Award', 'IEEE John von Neumann Medal', 'Computer History Museum', 'ACM Turing Award']"
+Vint Cerf,"['Stanford University', 'University of California, Los Angeles']","['ACM Fellow', 'IEEE Alexander Graham Bell Medal', 'IEEE Medal of Honor', 'National Medal of Technology', 'Marconi Prize', 'Prince of Asturias Award', 'Turing Award', 'Presidential Medal of Freedom', 'Japan Prize', 'Harold Pender Award', 'Queen Elizabeth Prize for Engineering', 'ForMemRS']"
+Gregory Chaitin,[],[]
+Robert Cailliau,"['Ghent University', 'University of Michigan']",[]
+Zhou Chaochen,[],"['Academician', 'Chinese Academy of Sciences']"
+Peter Chen,"['National Taiwan University', 'Harvard University']","['ACM - AAAI Allen Newell Award', 'Harry H. Goode Memorial Award', 'DAMA International', 'Pan Wen-Yuan']"
+Leonardo Chiariglione,[],[]
+Tracy Chou,['Stanford University'],[]
+Alonzo Church,['Princeton University'],[]
+Alberto Ciaramella,[],[]
+Edmund M. Clarke,['Cornell University'],['A.M. Turing Award']
+John Cocke,['Duke University'],"['ACM Turing Award', 'Computer Pioneer Award', 'National Medal of Technology', 'National Medal of Science', 'IEEE John von Neumann Medal', 'Computer History Museum']"
+Edgar F. Codd,"['Exeter College, Oxford', 'University of Michigan']",['Turing Award']
+Jacques Cohen,[],[]
+Ian Coldwater,[],[]
+Simon Colton,"['Durham University', 'University of Liverpool', 'University of Edinburgh']",[]
+Alain Colmerauer,[],[]
+Douglas Comer,[],[]
+Paul Justin Compton,[],[]
+Richard W. Conway,"['Cornell', 'Cornell']","['NAE', 'INFORMS']"
+Gordon Cormack,[],[]
+Stephen Cook,"['Harvard University', 'University of Michigan']","['Turing Award', 'Gödel Lecture', 'CRM-Fields-PIMS prize', 'John L. Synge Award', 'Bernard Bolzano Medal', 'Gerhard Herzberg Canada Gold Medal for Science and Engineering', 'Officer of Order of Canada', 'BBVA Foundation Frontiers of Knowledge Award']"
+James Cooley,[],[]
+Danese Cooper,"['University of California, Los Angeles']",[]
+Fernando J. Corbató,"['California Institute of Technology', 'Massachusetts Institute of Technology']","['Turing Award', 'Computer History Museum']"
+Kit Cosper,[],[]
+Patrick Cousot,['École Nationale Supérieure des Mines de Nancy'],"['CNRS Silver Medal', 'EADS', 'Saarland University', ""Ca' Foscari University of Venice"", 'ACM', 'SIGPLAN', 'IEEE Computer Society', 'IEEE', 'ACM Fellow', 'EATCS']"
+Ingemar Cox,"['University College London', 'Oxford University']",[]
+Damien Coyle,[],[]
+Seymour Cray,['University of Minnesota'],[]
+Nello Cristianini,"['University of Trieste', 'University of London', 'University of Bristol']","['Royal Society Wolfson Research Merit Award', 'ERC Advanced Grant']"
+Jon Crowcroft,"['Westminster School', 'University of Cambridge', 'University College London']","['ACM Fellow', 'SIGCOMM Award']"
+W. Bruce Croft,[],[]
+Glen Culler,"['University of California, Berkeley', 'University of California, Los Angeles']","['National Medal of Technology', 'Seymour Cray Award', 'IEEE Computer Society']"
+Haskell Curry,"['Harvard University', 'University of Göttingen']",[]
+Luigi Dadda,['Politecnico di Milano'],[]
+Ole-Johan Dahl,['University of Oslo'],"['Turing Award', 'IEEE John von Neumann Medal']"
+Ryan Dahl,"['UC San Diego', 'University of Rochester']",[]
+Andries van Dam,[],[]
+Samir Das,"['Georgia Tech', 'Indian Institute of Science', 'Jadavpur University']",[]
+Neil Daswani,"['Stanford University', 'Columbia University']",[]
+Christopher J. Date,['University of Cambridge'],[]
+Terry A. Davis,['Arizona State University'],[]
+Jeff Dean,"['University of Minnesota', 'University of Washington']",[]
+Erik Demaine,"['Dalhousie University', 'University of Waterloo']","['MacArthur Fellow', 'Nerode Prize', 'ACM Fellow']"
+Tom DeMarco,"['Cornell University', 'Columbia University', 'University of Paris']",['Stevens Award']
+Richard DeMillo,"['University of St. Thomas', 'Georgia Institute of Technology']",[]
+Dorothy E. Denning,"['University of Michigan', 'Purdue University']","['ACM Fellow', 'National Cyber Security Hall of Fame']"
+Peter J. Denning,"['Massachusetts Institute of Technology', 'Manhattan College']","['SIGCSE Award for Lifetime Service to Computer Science Education', 'SIGCSE Award for Outstanding Contribution to Computer Science Education']"
+Michael Dertouzos,[],[]
+A. K. Dewdney,[],[]
+Robert Dewar,['University of Chicago'],[]
+Vinod Dham,"['Delhi College of Engineering', 'Delhi Technological University', 'Delhi University']",[]
+Jan Dietz,[],[]
+Whitfield Diffie,['Massachusetts Institute of Technology'],"['Kanellakis Award', 'Marconi Prize', 'IEEE Hamming Medal', 'Computer History Museum', 'Turing Award', 'ForMemRS']"
+Edsger W. Dijkstra,"['Leiden University', 'University of Amsterdam']","['Turing Award', 'Harry H. Goode Memorial Award', 'SIGCSE Outstanding Contribution', 'ACM Fellow', 'Dijkstra Prize']"
+Matthew Dillon,"['University of California, Berkeley']",[]
+Alan Dix,[],[]
+Jack Dongarra,"['Chicago State University', 'Illinois Institute of Technology', 'University of New Mexico']","['Member of the National Academy of Sciences', 'ACM Turing Award', 'IEEE Computer Pioneer Award', 'Foreign Member of the Royal Society', 'SIAM/ACM Prize in Computational Science and Engineering', 'ACM/IEEE Ken Kennedy Award', 'IEEE Charles Babbage Award', 'SIAM SIAG/Supercomputing Career Prize', 'SIAM Fellow', 'IEEE Medal of Excellence in Scalable Computing', 'IEEE Computer Society Sidney Fernbach Memorial Award', 'Member of the National Academy of Engineering', 'ACM Fellow', 'IEEE Fellow', 'Fellow of the American Association for the Advancement of Science']"
+Marco Dorigo,[],[]
+Paul Dourish,['Computer Science'],[]
+Charles Stark Draper,"['Massachusetts Institute of Technology', 'Stanford University']","['Magellanic Premium', 'National Medal of Science', 'Daniel Guggenheim Medal', 'Rufus Oldenburger Medal', 'Allan D. Emil Memorial Award', 'Richard E. Bellman Control Heritage Award']"
+Susan Dumais,"['Indiana University', 'Bates College']",[]
+Adam Dunkels,['Swedish Institute of Computer Science'],[]
+Jon Michael Dunn,"['Oberlin College', 'University of Pittsburgh']",[]
+Schahram Dustdar,[],[]
+Peter Eades,[],[]
+Annie Easley,['Cleveland State University'],[]
+Wim Ebbinkhuijsen,[],[]
+J. Presper Eckert,['University of Pennsylvania'],"['Harry H. Goode Memorial Award', 'National Medal of Science', 'Harold Pender Award', 'IEEE Emanuel R. Piore Award']"
+Alan Edelman,"['Yale University', 'Massachusetts Institute of Technology']","['Chauvenet Prize', 'IEEE Computer Society Charles Babbage Award', 'Sidney Fernbach Award']"
+Brendan Eich,"['University of Illinois Urbana-Champaign', 'Santa Clara University']",[]
+Philip Emeagwali,"['George Washington University School of Engineering and Applied Science', 'Oregon State University']",[]
+E. Allen Emerson,"['Harvard', 'UT Austin']","['Turing Award', 'Paris Kanellakis Award']"
+Douglas Engelbart,"['Oregon State University', 'University of California, Berkeley']","['National Medal of Technology', 'Lemelson–MIT Prize', 'Turing Award', 'BCS', 'Lovelace Medal', 'Norbert Wiener Award for Social and Professional Responsibility', 'Computer History Museum']"
+Barbara Engelhardt,"['Stanford University', 'University of California, Berkeley']",['Overton Prize']
+David Eppstein,"['Stanford University', 'Columbia University']",[]
+Andrey Yershov,['Moscow State University'],[]
+Philip Don Estridge,['University of Florida'],[]
+Oren Etzioni,"['Harvard University', 'Carnegie Mellon University']",['AAAI']
+Christopher Evans,"['University College London', 'University of Reading']",[]
+David C. Evans,[],['IEEE Emanuel R. Piore Award']
+Shimon Even,['Harvard University'],[]
+Scott Fahlman,['Massachusetts Institute of Technology'],"['Fellow', 'American Association for Artificial Intelligence']"
+Edward Feigenbaum,['Carnegie Mellon University'],"['Turing Award', 'Computer Pioneer Award', 'AAAI Fellow', 'ACM Fellow']"
+Edward Felten,"['California Institute of Technology', 'University of Washington']",['EFF Pioneer Award']
+Tim Finin,"['MIT', 'University of Illinois', 'Alma mater', 'University of Illinois']","['ACM Fellow', 'AAAI Fellow']"
+Raphael Finkel,[],[]
+Donald Firesmith,['Arizona State University'],[]
+Gary William Flake,[],[]
+Tommy Flowers,['University of London'],[]
+Robert W. Floyd,['University of Chicago'],"['Turing Award', 'Computer Pioneer Award']"
+Sally Floyd,"['University of California, Berkeley']",[]
+Lawrence J. Fogel,"['New York University', 'Rutgers University', 'University of California, Los Angeles']",[]
+James D. Foley,"['University of Michigan', 'Lehigh University']","['IEEE', 'ACM Fellow', 'AAAS Fellow', 'NAE', 'SIGGRAPH', 'Steven A. Coons Award']"
+Ken Forbus,['Massachusetts Institute of Technology'],[]
+L. R. Ford Jr.,[],[]
+Lance Fortnow,"['Cornell University', 'Massachusetts Institute of Technology']","['ACM Fellow', 'NSF', 'Fulbright Scholar', 'Nerode Prize']"
+Mahmoud Samir Fayed,"['Menoufia University', 'King Saud University']",[]
+Martin Fowler,['University College London'],[]
+Robert France,"['University of the West Indies', 'Trinidad and Tobago', 'Massey University', 'New Zealand']",['Dahl–Nygaard Prize']
+Herbert W. Franke,[],[]
+Edward Fredkin,['California Institute of Technology'],['Dickson Prize in Science']
+Yoav Freund,"['The Hebrew University of Jerusalem', 'University of California, Santa Cruz']",['Gödel prize']
+Daniel P. Friedman,['University of Houston'],[]
+Charlotte Froese Fischer,"['University of British Columbia', 'University of Cambridge']","['Sloan Research Fellowship', 'Fellow of the American Physical Society', 'Royal Physiographic Society in Lund', 'Lithuanian Academy of Sciences', 'Malmö University', 'Fellow of the Royal Society of Canada', 'Western University']"
+Ping Fu,"['University of California, San Diego', 'University of Illinois at Urbana-Champaign', 'University of California, San Diego']",[]
+Xiaoming Fu,[],[]
+Kunihiko Fukushima,['Kyoto University'],[]
+D. R. Fulkerson,"['Southern Illinois University', 'University of Wisconsin–Madison']","['Lester R. Ford Award', 'the Mathematical Association of America']"
+Richard P. Gabriel,"['Northeastern University', 'Massachusetts Institute of Technology', 'University of Illinois', 'Stanford University', 'Warren Wilson College']","['Association for Computing Machinery', 'Allen Newell']"
+Zvi Galil,"['Tel Aviv University', 'Cornell University']","['ACM Fellow', 'NAE', 'American Academy of Arts and Sciences']"
+Bernard Galler,"['University of Chicago', 'University of California, Los Angeles']",[]
+Héctor García-Molina,"['Monterrey Institute of Technology and Higher Education', 'Stanford University']",['SIGMOD Edgar F. Codd Innovations Award']
+Michael Garey,['University of Wisconsin–Madison'],[]
+Hugo de Garis,[],[]
+Bill Gates,['Harvard University'],"['Knight Commander of the Order of the British Empire', 'Padma Bhushan', 'Presidential Medal of Freedom', 'Hilal-e-Pakistan']"
+David Gelernter,"['Yale University', 'State University of New York at Stony Brook']",['National Council on the Arts']
+Lisa Gelobter,['Brown University'],[]
+Charles Geschke,"['Xavier University', 'AB', 'Carnegie Mellon University']","['AeA Medal of Achievement', 'National Medal of Technology and Innovation', 'Marconi Prize']"
+Zoubin Ghahramani,"['University of Pennsylvania', 'Massachusetts Institute of Technology']",['FRS']
+Sanjay Ghemawat,"['Cornell University', 'MIT']",['ACM Prize in Computing']
+Jeremy Gibbons,"['University of Edinburgh', 'University of Oxford']",[]
+Juan E. Gilbert,"['Miami University', 'University of Cincinnati']",[]
+Lee Giles,"['Rhodes College', 'University of Tennessee', 'University of Michigan', 'University of Arizona']","['ACM Fellow', 'IEEE Fellow', 'INNS Fellow', 'IBM Distinguished Faculty Award', 'INNS Gabor Award', 'IEEE Computational Intelligence Society (CIS) Neural Networks Pioneer Award', 'National Federation of Advanced Information Services (NFAIS) Miles Conrad Award', 'Eagle Scout']"
+Seymour Ginsburg,"['City College of New York', 'University of Michigan']",[]
+Robert L. Glass,[],[]
+Kurt Gödel,['University of Vienna'],"['Albert Einstein Award', 'ForMemRS', 'National Medal of Science']"
+Ashok Goel,['Ohio State University'],"['AAAI Fellow', 'Cognitive Science Society']"
+Joseph Goguen,"['Harvard University', 'University of California, Berkeley']",[]
+E. Mark Gold,[],[]
+Adele Goldberg,"['University of Michigan', 'University of Chicago']",[]
+Andrew V. Goldberg,"['Massachusetts Institute of Technology', 'University of California, Berkeley']",['ACM Fellow']
+Ian Goldberg,"['University of California, Berkeley', 'University of Waterloo']",[]
+Judy Goldsmith,[],[]
+Oded Goldreich,"['Technion', 'Weizmann Institute']",['Knuth Prize']
+Shafi Goldwasser,"['Carnegie Mellon University', 'University of California, Berkeley']","['Grace Murray Hopper Award', 'Gödel Prize', 'Member of the National Academy of Sciences', 'IEEE Emanuel R. Piore Award', 'BBVA Award', 'RSA Mathematics Award', 'Loreal Unesco Women in Science Award', 'Turing Award', 'Suffrage Science award', 'ACM Fellow', 'AAAS Fellow']"
+Gene H. Golub,['University of Illinois at Urbana-Champaign'],[]
+Martin Charles Golumbic,[],[]
+Gaston Gonnet,['University of Waterloo'],[]
+Ian Goodfellow,"['Stanford University', 'Université de Montréal']",[]
+James Gosling,"['University of Calgary', 'Carnegie Mellon University']","['Order of Canada', 'Computer History Museum']"
+Paul Graham,"['Gateway High School', 'Cornell University', 'Harvard University']",[]
+Robert M. Graham,[],[]
+Susan L. Graham,"['Harvard', 'Stanford']","['ACM Fellow', 'Ken Kennedy Award', 'IEEE Fellow', 'IEEE von Neumann Medal', 'Fellow of the AAAS']"
+Jim Gray,"['University of California, Berkeley']","['Turing Award', 'IEEE Computer Society Charles Babbage Award']"
+Sheila Greibach,"['Radcliffe College', 'Harvard University']",[]
+David Gries,"['Queens College, City University of New York', 'University of Illinois Urbana-Champaign', 'Technical University of Munich', 'Dr']","['AFIPS', 'ACM', 'SIGCSE', 'IEEE Computer Society', 'Taylor L. Booth Education Award']"
+Robert Griesemer,[],[]
+Ralph Griswold,[],[]
+Bill Gropp,['Stanford University'],"['Sidney Fernbach Award', 'Ken Kennedy Award']"
+Tom Gruber,[],[]
+Shelia Guberman,[],[]
+Ramanathan V. Guha,"['Indian Institute of Technology Madras', 'University of California, Berkeley', 'Stanford University']",[]
+Neil J. Gunther,"['La Trobe University', 'University of Southampton']",[]
+Jürg Gutknecht,['ETH Zurich'],[]
+Michael Guy,[],[]
+Nico Habermann,"['Free University of Amsterdam', 'Eindhoven University of Technology']",[]
+Philipp Matthäus Hahn,[],[]
+Eldon C. Hall,"['University of Washington', 'Rutgers University', 'Eastern Nazarene College', 'Boston University', 'Massachusetts Institute of Technology', 'Harvard University']",[]
+Wendy Hall,"['Ealing Grammar School for Girls', 'University of Southampton', 'City University London']",['Suffrage Science award']
+Joseph Halpern,[],"['Gödel Prize', 'Allen Newell Award', 'Dijkstra Prize']"
+Margaret Hamilton,"['University of Michigan', 'Earlham College']",['Presidential Medal of Freedom']
+Richard Hamming,"['University of Chicago', 'University of Nebraska', 'University of Illinois at Urbana–Champaign']","['Turing Award', 'IEEE Emanuel R. Piore Award', 'Harold Pender Award', 'IEEE Hamming Medal']"
+Jiawei Han,"['University of Wisconsin - Madison', 'University of Science and Technology of China']",[]
+Frank Harary,"['Brooklyn College', 'University of California, Berkeley']",[]
+Brian Harris,"['School of Oriental and African Studies', 'American University in Cairo', ""Quai d'Orsay""]",[]
+Juris Hartmanis,"['University of Marburg', 'University of Kansas City', 'Caltech']",['Turing Award']
+Johan Håstad,"['Massachusetts Institute of Technology', 'Uppsala University', 'Stockholm University']","['IMO gold medal', 'ACM Doctoral Dissertation Award', 'Gödel Prize', 'Knuth Prize']"
+Les Hatton,"[""King's College, Cambridge""]",['Conrad Schlumberger Award']
+Igor Hawryszkiewycz,[],[]
+He Jifeng,['Fudan University'],[]
+Eric Hehner,"['Carleton University', 'University of Toronto']",[]
+Martin Hellman,"['New York University', 'Stanford University']","['IEEE Centennial Medal', 'EFF Pioneer Award', 'Louis E. Levy Medal', 'Golden Jubilee Awards for Technological Innovation', 'Marconi Prize', 'National Academy of Engineering', 'Hamming Medal', 'Computer History Museum', 'Turing Award']"
+Gernot Heiser,"['University of Freiburg', 'Brock University', 'ETH Zurich']","['Leopoldina Member', 'RSN Fellow', 'ACM SIGOPS Hall of Fame Award', 'ATSE Fellow', 'IEEE Fellow', 'ACM Fellow']"
+James Hendler,"['Yale University', 'Southern Methodist University', 'Brown University']",[]
+John L. Hennessy,"['Alma mater', 'Villanova University', 'Stony Brook University']","['Charles Stark Draper Prize', 'Turing Award', 'BBVA Foundation Frontiers of Knowledge Award', 'Clark Kerr Award', 'IEEE Medal of Honor', 'Member of the National Academy of Sciences', 'Fellow of the American Academy of Arts and Sciences', 'ACM Fellow', 'Fellow of the Royal Academy of Engineering']"
+Andrew Herbert,[],[]
+Carl Hewitt,['MIT'],[]
+Kelsey Hightower,[],[]
+Danny Hillis,['Massachusetts Institute of Technology'],"['Dan David Prize', 'Grace Murray Hopper Award']"
+Geoffrey Hinton,"['University of Cambridge', 'University of Edinburgh']","['AAAI Fellow', 'Rumelhart Prize', 'IJCAI Award for Research Excellence', 'IEEE Frank Rosenblatt Award', 'James Clerk Maxwell Medal', 'BBVA Foundation Frontiers of Knowledge Award', 'Turing Award', 'Dickson Prize', 'Princess of Asturias Award']"
+Julia Hirschberg,"['University of Pennsylvania', 'University of Michigan']","['American Academy of Arts and Sciences', 'IEEE', 'National Academy of Engineering', 'ACM Fellow', 'ACL', 'AAAI Fellow', 'International Speech Communication Association', 'KTH', 'IEEE James L. Flanagan Speech and Audio Processing Award']"
+Tin Kam Ho,[],[]
+Tony Hoare,"['University of Oxford', 'Moscow State University']","['Turing Award', 'Harry H. Goode Memorial Award', 'Faraday Medal', 'Computer Pioneer Award', 'Kyoto Prize', 'IEEE John von Neumann Medal', 'Royal Medal']"
+Louis Hodes,"['Polytechnic Institute of Brooklyn', 'MIT']",[]
+Betty Holberton,['University of Pennsylvania'],"['Department of Commerce Silver Medal', 'Ada Lovelace Award', 'IEEE Computer Pioneer Award', 'WITI Hall of Fame']"
+John Henry Holland,['University of Michigan'],"['MacArthur Fellow', 'Harold Pender Award']"
+Herman Hollerith,"['City College of New York', 'Columbia University']","['Elliott Cresson Medal', ""World's Columbian Exposition"", 'National Inventors Hall of Fame']"
+Gerard J. Holzmann,['Delft University of Technology'],['Paris Kanellakis Award']
+John Hopcroft,"['Seattle University', 'Stanford University']","['Turing Award', 'Member of the National Academy of Sciences', 'Member of the National Academy of Engineering', 'Foreign Member of the Chinese Academy of Sciences', 'Fellow of the American Academy of Arts and Sciences', 'Fellow of the American Association for the Advancement of Science', 'Fellow of the Institute of Electrical and Electronics Engineers', 'Fellow of the Association for Computing Machinery']"
+Grace Hopper,"['Vassar College', 'Yale University']","['Defense Distinguished Service Medal', 'Legion of Merit', 'Meritorious Service Medal', 'American Campaign Medal', 'World War II Victory Medal', 'National Defense Service Medal', 'Armed Forces Reserve Medal', 'Hourglass Devices', 'Naval Reserve Medal', 'Presidential Medal of Freedom']"
+Eric Horvitz,[],[]
+Alston Scott Householder,['University of Chicago'],[]
+Paul Hudak,"['Vanderbilt University', 'Massachusetts Institute of Technology', 'University of Utah']","['Presidential Young Investigator Award', 'ACM Fellow', 'ICFP']"
+David A. Huffman,"['Ohio State University', 'Massachusetts Institute of Technology']",['IEEE Richard W. Hamming Medal']
+John Hughes,['University of Oxford'],['ACM Fellow']
+Roger Hui,"['University of Alberta', 'University of Toronto']",['Kenneth E. Iverson Award for Outstanding Contribution to APL']
+Watts Humphrey,[],['National Medal of Technology']
+Sandra Hutchins,[],[]
+Jean Ichbiah,[],[]
+Roberto Ierusalimschy,['Pontifical Catholic University of Rio de Janeiro'],[]
+Dan Ingalls,"['Harvard University', 'Stanford University']","['ACM', 'Grace Murray Hopper Award', 'ACM Software Systems Award']"
+Mary Jane Irwin,"['University of Illinois at Urbana-Champaign', 'Memphis State University']","['ACM Fellow', 'IEEE Fellow', 'NAE']"
+Kenneth E. Iverson,"[""Queen's University"", 'Harvard University']","['IBM Fellow', 'Harry H. Goode Memorial Award', 'Turing Award', 'Computer Pioneer Award']"
+Ivar Jacobson,"['Chalmers Institute of Technology', 'Gothenburg', 'Royal Institute of Technology', 'Stockholm']",[]
+Anil K. Jain,"['Alma mater', 'Indian Institute of Technology, Kanpur', 'Ohio State University']","['IIT Kanpur', 'National Academy of Engineering', 'Indian National Academy of Engineering', 'IAPR', 'King-Sun Fu', 'IEEE', 'W. Wallace McDowell Award', 'IEEE Computer Society', 'IAPR', 'Humboldt Research Award', 'Guggenheim Fellowship', 'Fulbright Fellowship']"
+Ramesh Jain,"['Indian Institute of Technology, Kharagpur', 'Visvesvaraya National Institute of Technology Nagpur']",[]
+Jonathan James,[],[]
+David S. Johnson,"['Amherst College', 'MIT']","['ACM Fellow', 'Knuth Prize']"
+Stephen C. Johnson,"['Columbia University', 'Haverford College']",[]
+Angie Jones,"['Tennessee State University', 'North Carolina State University', '']",[]
+Cliff Jones,['University of Oxford'],[]
+Michael I. Jordan,"['University of California, San Diego']","['Member of the National Academy of Sciences', 'AAAI Fellow', 'Rumelhart Prize', 'IJCAI Award for Research Excellence', 'IEEE John von Neumann Medal']"
+Mathai Joseph,"['Wilson College, Mumbai', 'University of Bombay', 'Welsh College of Advanced Technology', 'University of Cambridge']",[]
+Aravind Joshi,"['College of Engineering, Pune', 'Indian Institute of Science', 'University of Pennsylvania']",[]
+Bill Joy,"['University of Michigan', 'University of California, Berkeley']","['ACM Grace Murray Hopper Award', 'National Academy of Engineering', 'American Academy of Arts and Sciences', 'Computer History Museum']"
+Dan Jurafsky,['University of California at Berkeley'],['MacArthur Fellowship']
+William Kahan,['University of Toronto'],"['Turing Award', 'IEEE Emanuel R. Piore Award', 'National Academy of Engineering', 'ACM Fellow']"
+Robert Kahn,"['City College of New York', 'Princeton University']","['Marconi Prize', 'National Medal of Technology and Innovation', 'IEEE Alexander Graham Bell Medal', 'Charles Stark Draper Prize', 'Prince of Asturias Award', 'Turing Award', 'Presidential Medal of Freedom', 'Computer History Museum', 'Japan Prize', 'Harold Pender Award', 'Queen Elizabeth Prize for Engineering', 'IEEE Medal of Honor']"
+Avinash Kak,"['University of Madras', 'Indian Institute of Technology, Delhi']",[]
+Poul-Henning Kamp,[],[]
+David Karger,"['Harvard University', 'Stanford University']",[]
+Richard M. Karp,['Harvard University'],"['Fulkerson Prize', 'Turing Award', 'John von Neumann Theory Prize', 'IEEE Computer Society Charles Babbage Award', 'National Medal of Science', 'Harvey Prize', 'EATCS award', 'Benjamin Franklin Medal', 'Kyoto Prize']"
+Narendra Karmarkar,"['IIT Bombay', 'Caltech', 'University of California, Berkeley']",[]
+Marek Karpinski,[],[]
+Ted Kaehler,"['Stanford University', 'Carnegie Mellon University']",[]
+Alan Kay,"['University of Colorado at Boulder', 'University of Utah College of Engineering']","['Turing Award', 'Kyoto Prize', 'Charles Stark Draper Prize']"
+Neeraj Kayal,['IIT Kanpur'],[]
+Manolis Kellis,['Massachusetts Institute of Technology'],"['Presidential Early Career Award for Scientists and Engineers', 'NSF CAREER Award', 'Sloan Research Fellowship']"
+John G. Kemeny,['Princeton University'],['Computer Pioneer Award']
+Ken Kennedy,"['Rice University', 'New York University']",[]
+Brian Kernighan,"['University of Toronto', 'BASc', 'Princeton University']",[]
+Carl Kesselman,[],[]
+Gregor Kiczales,['Massachusetts Institute of Technology'],[]
+Peter T. Kirstein,"['Highgate School', 'University of Cambridge', 'Stanford University']","['Marconi Prize', 'SIGCOMM Award', 'Jonathan B. Postel Service Award']"
+Stephen Cole Kleene,"['Amherst College', 'Princeton University']","['Leroy P. Steele Prize', 'National Medal of Science']"
+Dan Klein,"['Cornell University', 'University of Oxford', 'MSt', 'Stanford University']","['Grace Murray Hopper Award', 'Sloan Research Fellowship']"
+Leonard Kleinrock,"['City College of New York', 'MIT']","['Marconi Prize', 'Harry H. Goode Memorial Award', 'National Medal of Science', 'National Academy of Engineering', 'Charles Stark Draper Prize', 'IEEE Alexander Graham Bell Medal', 'BBVA Foundation Frontiers of Knowledge Award']"
+Donald Knuth,"['Case Institute of Technology', 'California Institute of Technology']","['SIGCSE Outstanding Contribution', 'Grace Murray Hopper Award', 'Turing Award', 'Member of the National Academy of Sciences', 'National Medal of Science', 'John von Neumann Medal', 'Harvey Prize', 'Kyoto Prize', 'Foreign Member of the Royal Society', 'Faraday Medal', 'BBVA Foundation Frontiers of Knowledge Award', 'Turing Lecture', 'Flajolet Lecture']"
+Andrew Koenig,['Columbia University'],[]
+Daphne Koller,"['Hebrew University of Jerusalem', 'Stanford University']","['ISCB Fellow', 'IJCAI Computers and Thought Award', 'MacArthur Fellow', 'PECASE', 'ACM Prize in Computing']"
+Michael Kölling,"['University of Bremen', 'University of Sydney']","['SIGCSE Award for Outstanding Contribution to Computer Science Education', 'National Teaching Fellowship', 'Pearcey Award']"
+Andrey Kolmogorov,['Moscow State University'],"['Russian Academy of Sciences', 'Stalin Prize', 'Balzan Prize', 'ForMemRS', 'Lenin Prize', 'Wolf Prize', 'Lobachevsky Prize']"
+Janet L. Kolodner,"['Brandeis University', 'Yale University']",['AAAI Fellow']
+David Korn,[],[]
+Cornelis H. A. Koster,['University of Amsterdam'],[]
+Robert Kowalski,"['University of Chicago', 'University of Bridgeport', 'Stanford University', 'University of Warsaw', 'University of Edinburgh']",['IJCAI Award for Research Excellence']
+John Koza,[],[]
+John Krogstie,[],[]
+Joseph Kruskal,"['University of Chicago', 'Princeton University']",[]
+Maarja Kruusmaa,"['Tallinn University of Technology', 'Chalmers University of Technology']",[]
+Thomas E. Kurtz,"['Princeton University', 'Knox College', 'mathematics']",[]
+Richard E. Ladner,"[""St. Mary's College of California"", 'University of California, Berkeley']","['Guggenheim Fellowship', 'ACM Fellow', 'IEEE Fellow', 'SIGCHI Social Impact Award', 'SIGACCESS Outstanding Contribution to Computing and Accessibility Award']"
+Monica S. Lam,"['University of British Columbia', 'Alma mater', 'Carnegie Mellon University']",[]
+Leslie Lamport,"['Massachusetts Institute of Technology', 'Brandeis University']","['Dijkstra Prize', 'IEEE Emanuel R. Piore Award', 'IEEE John von Neumann Medal', 'Turing Award', 'Member of the National Academy of Sciences', 'ACM Fellow']"
+Butler Lampson,"['Harvard University', 'University of California, Berkeley']","['Turing Award', 'ACM Fellow', 'IEEE John von Neumann Medal', 'Member of the National Academy of Sciences', 'Draper Prize', 'Foreign Member of the Royal Society']"
+Peter Landin,"['Clare College', 'Cambridge University']",[]
+Tom Lane,['Carnegie Mellon University'],[]
+Börje Langefors,[],[]
+Chris Lattner,"['University of Portland', 'University of Illinois at Urbana-Champaign']","['ACM SIGPLAN Programming Languages Software Award', 'ACM Software System Award']"
+Steve Lawrence,[],[]
+Edward D. Lazowska,"['Brown University', 'University of Toronto']",[]
+Joshua Lederberg,"['Alma mater', 'Stuyvesant High School', 'Columbia University', 'Yale University']","['Nobel Prize in Physiology or Medicine', 'National Medal of Science', 'Presidential Medal of Freedom']"
+Manny Lehman,['Imperial College London'],"['Harlan D. Mills Award', 'FREng']"
+Charles E. Leiserson,"['Carnegie Mellon University', 'Yale University']",[]
+Douglas Lenat,"['University of Pennsylvania', 'Stanford University']",['IJCAI Computers and Thought Award']
+Yann LeCun,"['ESIEE Paris', 'Pierre and Marie Curie University']","['Turing Award', 'AAAI Fellow', 'Legion of Honour']"
+Rasmus Lerdorf,['University of Waterloo'],[]
+Max Levchin,['University of Illinois at Urbana-Champaign'],[]
+Leonid Levin,"['Moscow University', 'Massachusetts Institute of Technology']",['Knuth Prize']
+Kevin Leyton-Brown,"['McMaster University', 'Stanford University']",[]
+J. C. R. Licklider,"['Washington University in St. Louis', 'University of Rochester']",[]
+David Liddle,[],[]
+Jochen Liedtke,"['Bielefeld University', 'Technical University of Berlin']",[]
+John Lions,"['Alma mater', 'University of Sydney', 'University of Cambridge']",[]
+Charles H. Lindsey,[],[]
+Richard Lipton,['Carnegie Mellon'],['Knuth Prize']
+Barbara Liskov,"['University of California, Berkeley', 'Stanford University']","['IEEE John von Neumann Medal', 'A. M. Turing Award', 'Computer Pioneer Award']"
+Yanhong Annie Liu,"['Cornell University', 'Tsinghua University', 'Peking University']",[]
+Darrell Long,"['San Diego State University', 'University of California, San Diego']","['IEEE Fellow', 'AAAS Fellow']"
+Patricia D. Lopez,['New Mexico State University'],[]
+Gillian Lovegrove,"['Newnham College, Cambridge', 'Cambridge University']",[]
+Ada Lovelace,[],[]
+David Luckham,['MIT'],[]
+Eugene M. Luks,[],[]
+Nancy Lynch,"['Brooklyn College', 'MIT']","['ACM Fellow', 'Dijkstra Prize', 'National Academy of Engineering', 'Van Wijngaarden Award', 'IEEE Emanuel R. Piore Award', 'National Academy of Sciences', 'Knuth Prize']"
+Nadia Magnenat Thalmann,"['University of Geneva', 'École Polytechnique Fédérale de Lausanne']",[]
+Tom Maibaum,"['University of Toronto', 'University of London']",['Fellow of the Royal Society of Arts']
+Simon Marlow,"['University of Glasgow', 'University of Bristol']",['SIGPLAN Programming Languages Software Award']
+Zohar Manna,"['Technion – Israel Institute of Technology', 'Carnegie Mellon University']","['Fellow of the Association for Computing Machinery', 'Herbrand Award', 'Technical University of Munich', 'École Normale Supérieure de Cachan']"
+James Martin,['University of Oxford'],['Turing Lecture']
+Robert C. Martin,[],[]
+John Mashey,['Pennsylvania State University'],[]
+Yuri Matiyasevich,['Leningrad State University'],"['Petersburg Mathematical Society', 'Humboldt Award']"
+Yukihiro Matsumoto,"['University of Tsukuba', 'Shimane University']",[]
+John Mauchly,['Johns Hopkins University'],"['Harry H. Goode Memorial Award', 'Harold Pender Award', 'IEEE Emanuel R. Piore Award']"
+Ujjwal Maulik,"['Nabadwip Bakultala High School', 'Calcutta University', 'Jadavpur University']",[]
+Derek McAuley,['University of Cambridge'],['FREng']
+Conor McBride,['University of Edinburgh'],[]
+John McCarthy,"['Princeton University', 'California Institute of Technology']","['Turing Award', 'Computer Pioneer Award', 'IJCAI Award for Research Excellence', 'Kyoto Prize', 'National Medal of Science', 'Benjamin Franklin Medal']"
+Andrew McCallum,"['Dartmouth College', 'University of Rochester']",[]
+Douglas McIlroy,"['Cornell University', 'Massachusetts Institute of Technology']",[]
+Chris McKinstry,[],[]
+Marshall Kirk McKusick,"['University of California, Berkeley']",[]
+Lambert Meertens,[],['IFIP']
+Kurt Mehlhorn,['Cornell University'],"['Leibniz Prize', 'Konrad Zuse Medal', 'EATCS Award', 'Paris Kanellakis Award']"
+Dora Metcalf,[],[]
+Bertrand Meyer,"['Université de Nancy', 'Stanford University', 'École Polytechnique']",[]
+Silvio Micali,"['La Sapienza University of Rome', 'UC Berkeley']","['Gödel Prize', 'Turing Award', 'ACM Fellow']"
+Robin Milner,[],"['Turing Award', 'FRS', 'DFBCS', 'FRSE']"
+Jack Minker,"['Brooklyn College', 'University of Wisconsin', 'University of Pennsylvania']","['ACM Fellow', 'when?', 'Allen Newell Award']"
+Marvin Minsky,"['Harvard University', 'Princeton University']","['Turing Award', 'Japan Prize', 'AAAI Fellow', 'IJCAI Award for Research Excellence', 'Benjamin Franklin Medal', 'BBVA Foundation Frontiers of Knowledge Award']"
+James G. Mitchell,"['University of Waterloo', 'Carnegie Mellon University']",['J.W. Graham Medal']
+Tom M. Mitchell,"['Stanford University', 'Massachusetts Institute of Technology']","['IJCAI Computers and Thought Award', 'Presidential Young Investigator Award']"
+Arvind,"['IIT Kanpur', 'B.Sc., 1969', 'University of Minnesota']",[]
+Paul Mockapetris,"['Massachusetts Institute of Technology', 'University of California at Irvine']","['IEEE Internet Award', 'ACM Fellow', 'SIGCOMM Award', 'Software System Award']"
+Cleve Moler,"['California Institute of Technology', 'Stanford University']","['Computer Pioneer Award', 'IEEE John von Neumann Medal']"
+Faron Moller,"['University of British Columbia', 'University of Waterloo', 'University of Edinburgh']",[]
+John P. Moon,[],[]
+Charles H. Moore,[],[]
+Edward F. Moore,"['Alma mater', 'Virginia Tech', 'Brown University']",[]
+Gordon Moore,"['University of California, Berkeley', 'California Institute of Technology']","['National Medal of Technology', 'John Fritz Medal', 'IEEE Founders Medal', 'Computer History Museum', 'Othmer Gold Medal', 'Presidential Medal of Freedom', 'Perkin Medal', 'Nierenberg Prize', 'IEEE Medal of Honor']"
+J Strother Moore,"['Massachusetts Institute of Technology', 'University of Edinburgh']","['Herbrand Award', 'ACM Software System Award']"
+Roger Moore,['Stanford University'],"['Grace Murray Hopper Award', 'Opera Canada Ruby']"
+Hans Moravec,"['Acadia University', 'University of Western Ontario', 'Stanford University']",[]
+Carroll Morgan,['University of Sydney'],[]
+Robert Tappan Morris,"['Harvard University ', 'Harvard University']",[]
+Joel Moses,"['Columbia University', 'Massachusetts Institute of Technology']",[]
+Rajeev Motwani,"[""St. Columba's School, Delhi"", 'IIT Kanpur', 'B.Tech', 'C.S.', 'UC Berkeley', 'C.S.']",['Gödel Prize']
+Oleg A. Mukhanov,[],[]
+Stephen Muggleton,['University of Edinburgh'],"['FREng', 'FBCS', 'FIET', 'FAAAI']"
+Klaus-Robert Müller,"['University of Karlsruhe', 'Diplom', 'University of Karlsruhe']",['Academy of Sciences Leopoldina']
+Alan Mycroft,"['University of Cambridge', 'University of Edinburgh']",[]
+Brad A. Myers,"['Massachusetts Institute of Technology', 'University of Toronto']","['SIGCHI', 'ACM Fellow', 'IEEE Fellow', 'CHI Academy']"
+Mihai Nadin,[],[]
+Makoto Nagao,['Kyoto University'],"['IEEE Emanuel R. Piore Award', 'ACL', 'Japan Prize']"
+Frieder Nake,[],[]
+Bonnie Nardi,[],[]
+Peter Naur,[],"['Computer Pioneer Award', 'Turing Award']"
+Roger Needham,"['Doncaster Grammar School for Boys', 'University of Cambridge']",['Faraday Medal']
+James G. Nell,[],[]
+Greg Nelson,"['Harvard University', 'Stanford University']",['Herbrand Award']
+Bernard de Neumann,[],[]
+Klára Dán von Neumann,[],[]
+John von Neumann,"['Pázmány Péter University', 'University of Berlin', 'ETH Zürich']","['Bôcher Memorial Prize', 'Navy Distinguished Civilian Service Award', 'Medal for Merit', 'Medal of Freedom', 'Enrico Fermi Award', 'Carl-Gustaf Rossby Research Medal']"
+Allen Newell,"['Stanford University', 'Princeton University', 'Carnegie Mellon University']","['A.M. Turing Award', 'IJCAI Award for Research Excellence', 'IEEE Emanuel R. Piore Award', 'National Medal of Science', 'Louis E. Levy Medal']"
+Max Newman,"[""St John's College, Cambridge""]","['Fellow of the Royal Society', 'Sylvester Medal', 'De Morgan Medal']"
+Andrew Ng,"['Raffles Institution', 'University of California, Berkeley', 'Massachusetts Institute of Technology', 'Carnegie Mellon University']","['Sloan Fellowship', 'MIT Technology Review', 'TR35', 'IJCAI Computers and Thought Award', 'Time 100', 'Fortune', 'CNN', 'Fast Company', 'World Economic Forum']"
+Nils John Nilsson,['Stanford University'],[]
+G. M. Nijssen,[],[]
+Tobias Nipkow,[],[]
+Maurice Nivat,['Joseph Fourier University'],"['French Academy of Sciences', ""Legion d'honneur"", 'Ordre national du Mérite', 'Ordre des Palmes Académiques', 'EATCS', 'University of Bologna', 'University of Quebec at Montreal']"
+Phiwa Nkambule,"['University of Pretoria', 'Cefups Academy']","['Forbes Africa 30 under 30', 'Destiny Man', 'Times']"
+Jerre Noe,"['UC Berkeley', 'Stanford University']",[]
+Peter Nordin,"['University of Dortmund', 'Chalmers University of Technology', 'Göteborg University']",[]
+Don Norman,"['MIT', 'University of Pennsylvania']",[]
+Peter Norvig,"['Brown University', 'University of California, Berkeley']","['AAAI Fellow', 'ACM Fellow']"
+George Novacky,['University of Pittsburgh'],[]
+Kristen Nygaard,['University of Oslo'],"['Turing Award', 'IEEE John von Neumann Medal', 'Order of St. Olav', 'Norbert Wiener Award for Social and Professional Responsibility']"
+Martin Odersky,"['Ludwig Maximilian University of Munich', 'ETH Zurich']",[]
+Peter O'Hearn,"['Dalhousie University', ""Queen's University""]","['Doctor of Laws', 'Dalhousie University', 'Fellow of the Royal Society', 'Gödel Prize', 'Fellow of the Royal Academy of Engineering', 'Royal Society Wolfson Research Merit Award']"
+T. William Olle,[],[]
+Steve Omohundro,"['Stanford University', 'University of California, Berkeley']",[]
+Severo Ornstein,[],[]
+John O'Sullivan,[],"[""Prime Minister's Prize for Science"", 'M. A. Sargent Medal']"
+John Ousterhout,"[""Bachelor's degree""]","['Grace Murray Hopper Award', 'ACM Software System Award']"
+Mark Overmars,['Utrecht University'],[]
+Susan Owicki,['Cornell University'],[]
+Larry Page,"['University of Michigan', 'Stanford University']",[]
+Sankar Kumar Pal,"['Rajabazar Science College', 'University of Calcutta', 'Indian Statistical Institute', 'Imperial College London']","['Padma Shri', 'Shanti Swarup Bhatnagar Prize']"
+Paritosh Pandya,[],[]
+Christos Papadimitriou,"['Athens Polytechnic', 'Princeton University']","['Von Neumann Medal', 'EATCS Award', 'Gödel Prize', 'IEEE Computer Society Charles Babbage Award', 'Knuth Prize']"
+David Park,"['University of Oxford', 'Massachusetts Institute of Technology']",[]
+David Parnas,[],[]
+DJ Patil,"['Alma mater', 'University of California, San Diego', 'University of Maryland College Park']",[]
+Yale Patt,[],[]
+David Patterson,"['South High School', 'University of California, Los Angeles']","['Charles Stark Draper Prize', 'Turing Award', 'Eckert–Mauchly Award', 'Member of the National Academy of Sciences', 'Fellow of the American Association for the Advancement of Science', 'ACM Fellow']"
+Mike Paterson,['University of Cambridge'],"['Dijkstra Prize', 'EATCS Award']"
+Mihai Pătrașcu,['Massachusetts Institute of Technology'],[]
+Lawrence Paulson,"['California Institute of Technology', 'Stanford University']",['ACM Fellow']
+Randy Pausch,"['Brown University', 'Carnegie Mellon University']","['Special Interest Group on Computer Science Education', 'ACM', 'Time', 'Time 100']"
+Juan Pavón,"['Technical University of Madrid', 'Université Pierre et Marie Curie']",[]
+Judea Pearl,"['Technion – Israel Institute of Technology', 'New Jersey Institute of Technology', 'Rutgers University', 'New York University Tandon School of Engineering']","['IJCAI Award for Research Excellence', 'Turing Award', 'Rumelhart Prize', 'Harvey Prize', 'BBVA Foundation Frontiers of Knowledge Award']"
+Alan Perlis,"['Chemistry', 'Carnegie Mellon', 'MIT']","['Turing Award', 'Computer Pioneer Award']"
+Radia Perlman,['MIT'],[]
+Pier Giorgio Perotto,[],[]
+Rózsa Péter,[],[]
+Simon Peyton Jones,['University of Cambridge'],['ACM Fellow']
+Kathy Pham,"['Georgia Institute of Technology', 'Supélec']",[]
+Roberto Pieraccini,[],[]
+Keshav K Pingali,"['IIT Kanpur', 'MIT']","['IEEE Charles Babbage Award', 'ACM/IEEE CS Ken Kennedy Award', 'Member of the Academia Europaea']"
+Gordon Plotkin,"['University of Glasgow', 'University of Edinburgh']","['Milner Award', 'Royal Society Wolfson Research Merit Award', 'EATCS Award']"
+Amir Pnueli,[],"['Turing Award', 'Israel Prize']"
+Willem van der Poel,"['Delft University of Technology', 'University of Amsterdam']",['Computer Pioneer Award']
+Robin Popplestone,"[""Queen's University Belfast"", 'University of Manchester', 'University of Leeds']",[]
+Cicely Popplewell,['University of Cambridge'],[]
+Emil Leon Post,"['City College of New York', 'Columbia University']",[]
+Jon Postel,"['University of California, Los Angeles']","['Internet Hall of Fame', 'SIGCOMM Award']"
+Franco P. Preparata,['University of Rome'],['ACM Fellow']
+William H. Press,"['Harvard University', 'California Institute of Technology']",[]
+Rapelang Rabana,[],[]
+Grzegorz Rozenberg,['Polish Academy of Sciences'],[]
+Michael O. Rabin,"['Hebrew University of Jerusalem', 'University of Pennsylvania', 'Princeton University']","['Weizmann Prize', 'Turing Award', 'Harvey Prize', 'Gibbs lecture', 'Israel Prize', 'IEEE Computer Society Charles Babbage Award', 'Paris Kanellakis Award', 'EMET Prize', 'Gödel Lecture', 'Dan David Prize', 'Dijkstra Prize']"
+Dragomir R. Radev,[],[]
+T. V. Raman,[],['ACM Doctoral Dissertation Award']
+Brian Randell,['Imperial College London'],[]
+Anders P. Ravn,"['University of Copenhagen', 'Technical University of Denmark']",['Order of the Dannebrog']
+Raj Reddy,"['University of Madras', 'BE', 'University of New South Wales', 'MTech', 'Stanford University']","['Legion of Honor', 'Turing Award', 'Padma Bhushan', 'Vannevar Bush Award']"
+David P. Reed,['MIT'],[]
+Trygve Reenskaug,[],[]
+John C. Reynolds,"['Purdue University', 'Harvard University']",['Lovelace Medal']
+Joyce K. Reynolds,['University of Southern California'],[]
+Reinder van de Riet,['University of Amsterdam'],[]
+Bernard Richards,[],[]
+Martin Richards,['University of Cambridge'],[]
+Adam Ries,[],[]
+C. J. van Rijsbergen,"['University of Western Australia', 'University of Cambridge']",[]
+Dennis Ritchie,['Harvard University'],"['IEEE Emanuel R. Piore Award', 'Turing Award', 'National Medal of Technology', 'IEEE Richard W. Hamming Medal', 'Computer Pioneer Award', 'Computer History Museum', 'Harold Pender Award', 'Japan Prize']"
+Ron Rivest,"['Stanford University', 'Yale University']","['Paris Kanellakis Award', 'Turing Award', 'Marconi Prize', 'BBVA Foundation Frontiers of Knowledge Awards', 'National Inventors Hall of Fame']"
+Ken Robinson,['University of Sydney'],['University of New South Wales']
+Colette Rolland,[],[]
+John Romero,[],[]
+Azriel Rosenfeld,[],"['IEEE Emanuel R. Piore Award', 'King-Sun Fu']"
+Douglas T. Ross,"['Oberlin College', 'Massachusetts Institute of Technology']","['Joseph Marie Jacquard', 'Society of Manufacturing Engineers']"
+Guido van Rossum,['University of Amsterdam'],['Award for the Advancement of Free Software']
+M. A. Rothman,[],[]
+Winston W. Royce,[],[]
+Rudy Rucker,"['St. Xavier High School', 'Swarthmore College', 'Rutgers University']",[]
+Steven Rudich,[],['Gödel Prize']
+Jeff Rulifson,"['University of Washington', 'Stanford University']",[]
+James Rumbaugh,[],[]
+Peter Ružička,[],[]
+George Sadowsky,['Harvard University'],[]
+Mehrnoosh Sadrzadeh,"['Université du Québec à Montréal', 'Sharif University of Technology']",[]
+Umar Saif,"['Alma mater', 'Lahore University of Management Sciences', 'University of Cambridge', 'Massachusetts Institute of Technology']",[]
+Gerard Salton,"['Brooklyn College', 'Harvard University']",[]
+Jean E. Sammet,"['Mount Holyoke College', 'University of Illinois at Urbana Champaign', 'Columbia University']","['Ada Lovelace Award', 'Computer Pioneer Award']"
+Claude Sammut,[],[]
+Carl Sassenrath,"['University of California, Davis']",[]
+Mahadev Satyanarayanan,"['Carnegie Mellon University (Ph.D.)', 'IIT Madras (M.Tech., B.Tech.)']","['ACM Software System Award', 'ACM SIGOPS Hall of Fame Award', 'ACM SIGMOBILE Test-of-Time Award', 'ACM Fellow', 'IEEE Fellow']"
+Walter Savitch,"['University of California, Berkeley']",[]
+Jonathan Schaeffer,"['University of Waterloo', 'University of Toronto']","['AAAI', 'Alberta Centennial Medal']"
+Wilhelm Schickard,[],[]
+Jürgen Schmidhuber,['Technical University of Munich'],[]
+Steve Schneider,['University of Oxford'],[]
+Bruce Schneier,"['American University', 'University of Rochester']",[]
+Fred B. Schneider,['Stony Brook University'],['IEEE Emanuel R. Piore Award']
+Sarita Schoenebeck,"['Georgia Institute of Technology', 'University of California, Berkeley', 'Dartmouth College']",[]
+Glenda Schroeder,[],[]
+Bernhard Schölkopf,"['University of London', 'University of Tübingen', 'TU Berlin']","['Max Planck Research Award (2011)', 'Milner Award', 'Leibniz Prize', 'Körber European Science Prize', 'BBVA Foundation Frontiers of Knowledge Awards']"
+Dana Scott,"['UC Berkeley', 'Princeton University']","['Leroy P. Steele Prize', 'Turing Award', 'Tarski Lectures', 'Harold Pender Award', 'Gödel Lecture', 'Rolf Schock Prize']"
+Michael L. Scott,[],[]
+Robert Sedgewick,['Brown University'],"['ACM Fellow', 'Leroy P. Steele Prize']"
+Ravi Sethi,"['Indian Institute of Technology, Kanpur', 'Princeton University']",[]
+Nigel Shadbolt,"['Newcastle University', 'University of Edinburgh']",['Knight Bachelor']
+Adi Shamir,"['Tel Aviv University', 'Weizmann Institute of Science']","['Erdős Prize', 'Weizmann Prize', 'Paris Kanellakis Award', 'Turing Award', 'Foreign Associate of the National Academy of Sciences', 'Israel Prize', 'Foreign Member of the Royal Society']"
+Claude Shannon,"['University of Michigan', 'BSE', 'Massachusetts Institute of Technology']","['Morris Liebmann Memorial Prize', 'Stuart Ballantine Medal', 'IEEE Medal of Honor', 'National Medal of Science', 'Harvey Prize', 'Claude E. Shannon Award', 'Harold Pender Award', 'John Fritz Medal', 'Kyoto Prize', 'Marconi Society Lifetime Achievement Award', 'National Inventors Hall of Fame']"
+David E. Shaw,"['University of California, San Diego', 'Stanford University']",[]
+Cliff Shaw,[],[]
+Scott Shenker,"['Brown University', 'University of Chicago']","['National Academy of Engineering', 'IEEE', 'ACM Fellow', 'IEEE', 'Paris Kanellakis Award']"
+Shashi Shekhar,[],[]
+Ben Shneiderman,"['City College of New York', 'Stony Brook University']",['ACM Fellow']
+Edward H. Shortliffe,"['Harvard University', 'Stanford University']",[]
+Daniel Siewiorek,"['University of Michigan', 'Stanford University']","['Eckert–Mauchly Award', 'Taylor L. Booth Education Award']"
+Joseph Sifakis,"['National Technical University of Athens', 'University of Grenoble']","['National Technical University of Athens', 'University of Grenoble']"
+Herbert A. Simon,['University of Chicago'],"['Member of the National Academy of Sciences', 'APA Award for Distinguished Scientific Contributions to Psychology', 'Turing Award', 'Nobel Prize in Economics', 'National Medal of Science', 'Harold Pender Award', 'von Neumann Theory Prize', 'APA Award for Lifetime Contributions to Psychology', 'ACM Fellow', 'IJCAI Award for Research Excellence']"
+Munindar P. Singh,"['University of Texas at Austin', 'Indian Institute of Technology Delhi']","['ACM Fellow', 'AAAS', 'ACM', 'SIGAI', 'AAAI', 'IEEE']"
+Ramesh Sitaraman,"['Indian Institute of Technology, Madras', 'Princeton University']",[]
+Daniel Sleator,"['University of Illinois at Urbana–Champaign', 'Stanford University']",['Paris Kanellakis Award']
+Aaron Sloman,[],[]
+Arne Sølvberg,[],[]
+Brian Cantwell Smith,['MIT'],[]
+David Canfield Smith,"['Oberlin College', 'Stanford University']",[]
+Steven Spewak,[],[]
+Carol Spradling,['University of Nebraska - Lincoln'],[]
+Robert Sproull,"['Alma mater', 'Deep Springs College', 'Cornell University']",[]
+Rohini Kesavan Srihari,"['University of Waterloo', 'University at Buffalo']",[]
+Sargur Srihari,"['Bangalore University', 'Indian Institute of Science', 'Ohio State University']","['IEEE', 'IAPR']"
+Maciej Stachowiak,['Course 6 - Electrical Engineering and Computer Science'],[]
+Richard Stallman,"['Harvard University', 'Massachusetts Institute of Technology']","['MacArthur Fellowship', 'ACM Grace Murray Hopper Award', 'EFF Pioneer Award', 'ACM Software System Award', 'Internet Hall of Fame']"
+Ronald Stamper,[],[]
+Thad Starner,[],[]
+Richard E. Stearns,"['Carleton College', 'Princeton University']","['ACM', 'Turing Award', 'Frederick W. Lanchester Prize']"
+Guy L. Steele Jr.,"['Harvard University', 'MIT']","['ACM Grace Murray Hopper Award', 'Harry H. Goode Memorial Award']"
+Thomas Sterling,"['Old Dominion University', 'Massachusetts Institute of Technology']","['Fellow at American Association for Advancement of Science', 'Senior Member of Institute for Electrical and Electronic Engineering', 'Gordon Bell Prize', 'Vanguard Award', 'Fellow of International Supercomputing Conference', 'Hertz Fellowship']"
+Alexander Stepanov,[],[]
+W. Richard Stevens,"['University of Michigan', 'University of Arizona']",[]
+Larry Stockmeyer,[],[]
+Salvatore J. Stolfo,[],[]
+Michael Stonebraker,"['Princeton University', 'University of Michigan']","['IEEE John von Neumann Medal', 'ACM Turing Award']"
+Olaf Storaasli,[],[]
+Christopher Strachey,"[""Gresham's School"", 'University of Cambridge']",[]
+Volker Strassen,['University of Göttingen'],[]
+Bjarne Stroustrup,"['Aarhus University', 'Cand.scient.', 'University of Cambridge']","['Grace Murray Hopper Award', 'ACM Fellow', 'IEEE Fellow', 'William Procter Prize for Scientific Achievement', ""Dr. Dobb's Excellence Award"", 'Dahl–Nygaard Prize', 'CHM Fellow', 'IET Faraday Medal', 'Charles Stark Draper Prize', 'Computer Pioneer Award', 'John Scott Medal']"
+Madhu Sudan,"['IIT Delhi', 'University of California, Berkeley']",['Gödel Prize']
+Gerald Jay Sussman,[],"['IJCAI Computers and Thought Award', 'ACM Fellow']"
+Bert Sutherland,"['RPI', 'MIT']",['Legion of Merit']
+Ivan Sutherland,"['Carnegie Institute of Technology', 'California Institute of Technology']","['Turing Award', 'Computer Pioneer Award', 'IEEE John von Neumann Medal', 'ACM Fellow', 'Member of the National Academy of Sciences', 'Kyoto Prize', 'when?']"
+Latanya Sweeney,"['Harvard University', 'ALB', 'MIT']",[]
+Mario Szegedy,['University of Chicago'],['Gödel Prize']
+Parisa Tabriz,[],[]
+Roberto Tamassia,[],[]
+Andrew S. Tanenbaum,"['Massachusetts Institute of Technology', 'University of California, Berkeley']",[]
+Austin Tate,"['Lancaster University', 'University of Edinburgh']",['AAAI Fellow']
+Bernhard Thalheim,"['Dresden University of Technology', 'Lomonosov Moscow State University']","['Peter P. Chen Award', 'Elsevier']"
+Éva Tardos,['Eötvös Loránd University'],"['Fulkerson Prize', 'Dantzig Prize', 'Gödel Prize', 'EATCS Award', 'IEEE John von Neumann Medal']"
+Gábor Tardos,['Eötvös Loránd University'],"['Gödel Prize', 'Erdős Prize', 'Alfréd Rényi Prize', 'EMS Prize']"
+Robert Tarjan,"['California Institute of Technology', 'Stanford University']","['Paris Kanellakis Award', 'Turing Award', 'Nevanlinna Prize']"
+Valerie Taylor,"['Purdue University', 'University of California at Berkeley']","['Harriett B. Rigas', 'A. Nico Habermann Award', 'Richard A. Tapia Achievement Award for Scientific Scholarship, Civic Science, and Diversifying Computing (Q21020802)']"
+Mario Tchou,[],[]
+Jaime Teevan,"['Yale University', 'Massachusetts Institute of Technology']","['TR35', 'Karen Spärck Jones', 'ACM Fellow', 'CHI Academy', 'TIME 100']"
+Shang-Hua Teng,"['Shanghai Jiao Tong University', 'University of Southern California', 'Carnegie Mellon University']","['Gödel Prize', 'Fulkerson Prize']"
+Larry Tesler,['Stanford University'],[]
+Avie Tevanian,[],[]
+Charles P. Thacker,"['University of California, Berkeley']","['IEEE John von Neumann Medal', 'Turing Award', 'Computer History Museum', 'Eckert–Mauchly Award']"
+Daniel Thalmann,['University of Geneva'],['Paul-Sabatier University']
+Ken Thompson,"['University of California, Berkeley']","['IEEE Emanuel R. Piore Award', 'Turing Award', 'Member of the National Academy of Sciences', 'IEEE Richard W. Hamming Medal', 'Computer Pioneer Award', 'National Medal of Technology', 'Tsutomu Kanai Award', 'Harold Pender Award', 'Japan Prize']"
+Simon Thompson,['University of Oxford'],[]
+Sebastian Thrun,"['University of Bonn', 'University of Hildesheim']","['National Science Foundation CAREER Award', 'AAAI Fellow', 'DARPA Grand Challenge']"
+Walter F. Tichy,"['Technische Universität München', 'Carnegie Mellon University']",[]
+Seinosuke Toda,[],[]
+Chai Keong Toh,"['University of Cambridge', 'University of Manchester']","['IEEE Kiyo Tomiyasu Award', 'IET Achievement Medals', 'IEEE Fellow', 'AAAS Fellow', 'IET Fellow', 'BCS', 'FREng']"
+Linus Torvalds,['University of Helsinki'],[]
+Leonardo Torres Quevedo,"[""Official School of the Road Engineers' Corps of Madrid"", 'es']","['Civil Order of Alfonso XII', 'Echegaray Medal', 'Order of Charles III', 'Military Order of Saint James of the Sword', 'Legion of Honour', 'Order of the Spanish Republic']"
+Godfried Toussaint,[],[]
+Gloria Townsend,['Indiana University'],['SIGCSE Award for Lifetime Service to Computer Science Education']
+Edwin E. Tozer,[],[]
+Joseph F. Traub,[],[]
+John V. Tucker,[],[]
+John Tukey,"['Brown University', 'Princeton University']","['Wilks Memorial Award', 'National Medal of Science', 'Shewhart Medal', 'IEEE Medal of Honor', 'Deming Medal', 'Foreign Member of the Royal Society']"
+Alan Turing,"['University of Cambridge', 'Princeton University']","[""Smith's Prize""]"
+David Turner,['University of Oxford'],[]
+Murray Turoff,"['University of California - Berkeley', 'Brandeis University']",['EFF Pioneer Award']
+Jeffrey Ullman,"['Columbia University', 'Princeton University']","['Knuth Prize', 'IEEE John von Neumann Medal', 'Turing Award']"
+Leslie Valiant,"['University of Cambridge', 'Imperial College London', 'University of Warwick']","['Turing Award', 'EATCS Award', 'Member of the National Academy of Sciences', 'Knuth Prize', 'AAAI Fellow', 'Nevanlinna Prize']"
+Vladimir Vapnik,"['Institute of Control Sciences, Russian Academy of Sciences', 'Uzbek State University']","['Kolmogorov Medal', 'IEEE John von Neumann Medal', 'Kampé de Fériet', 'C&C Prize', 'Benjamin Franklin Medal', 'IEEE Frank Rosenblatt Award', 'IEEE Neural Networks Pioneer Award', 'Paris Kanellakis Award', 'National Academy of Engineering', 'Gabor Award, International Neural Network Society', 'Alexander Humboldt Research Award']"
+Moshe Vardi,"['Bar-Ilan University', 'Weizmann Institute of Science', 'Hebrew University of Jerusalem']","['ACM Fellow', 'Gödel Prize', 'AAAI Fellow', 'Paris Kanellakis Award', 'Harry H. Goode Memorial Award', 'Member of the National Academy of Sciences', 'Knuth Prize']"
+Dorothy Vaughan,['Wilberforce University'],[]
+Bernard Vauquois,[],[]
+Umesh Vazirani,"['MIT', 'University of California, Berkeley']",['Fulkerson Prize']
+Manuela M. Veloso,"['Instituto Superior Técnico', 'University of Lisbon', 'Boston University', 'Carnegie Mellon University']","['National Science Foundation CAREER Award', 'ACM Fellow', 'AAAI Fellow']"
+François Vernadat,[],[]
+Richard Veryard,[],[]
+Sergiy Vilkomir,"['Kharkov State University', 'Kharkov Polytechnic Institute']","['Google', 'UNC']"
+Paul Vitányi,"['Delft University of Technology', 'Free University of Amsterdam']",[]
+Andrew Viterbi,"['Massachusetts Institute of Technology', 'University of Southern California']","['IEEE Alexander Graham Bell Medal', 'Marconi Prize', 'Claude E. Shannon Award', 'Wireless Hall of Fame', 'National Medal of Science', 'IEEE/RSE James Clerk Maxwell Medal', 'Millennium Technology Prize', 'IEEE Medal of Honor', 'John Fritz Medal']"
+Jeffrey Vitter,"['University of Notre Dame', 'Duke University', 'MBA', 'Stanford University']",[]
+Paul Vixie,['Keio University'],[]
+Eiiti Wada,['University of Tokyo'],[]
+David A. Wagner,"['University of California, Berkeley']",[]
+David Waltz,['Massachusetts Institute of Technology'],"['ACM Fellow', 'AAAI Fellow']"
+James Z. Wang,"['Stanford University', 'University of Minnesota']",[]
+Steve Ward,[],[]
+Manfred K. Warmuth,"['University of Colorado, Boulder']",['Leopoldina']
+David H. D. Warren,['University of Edinburgh'],[]
+Kevin Warwick,"['Aston University', 'Imperial College London']","['FIET', 'Royal Institution Christmas Lectures', 'Mountbatten Medal', 'Ellison-Cliffe Medal']"
+Jan Węglarz,['Poznań University of Technology'],[]
+Philip Wadler,"['Stanford University', 'Carnegie Mellon University']","['Fellow of the Royal Society of Edinburgh', 'ACM Fellow', 'ACM Distinguished Service Award', 'Fellow of the Royal Society']"
+Peter Wegner,[],"['ACM', 'Austrian Cross of Honour for Science and Art, First Class']"
+Joseph Henry Wegstein,['University of Illinois'],[]
+Peter J. Weinberger,"['University of California, Berkeley']",[]
+Mark Weiser,"['New College of Florida', 'University of Michigan']",[]
+Joseph Weizenbaum,['Wayne State University'],[]
+David Wheeler,['University of Cambridge'],"['Fellow of the Royal Society', 'Computer Pioneer Award']"
+Franklin H. Westervelt,[],[]
+Steve Whittaker,[],"['SIGCHI', 'Association for Computing Machinery', 'SIGCHI']"
+Jennifer Widom,"['Cornell University', 'Indiana University Jacobs School of Music']","['Erna Hamburger Prize', 'ACM', 'American Academy of Arts & Sciences', 'National Academy of Engineering', 'ACM Fellow', 'Guggenheim Foundation Fellow']"
+Gio Wiederhold,"['University of California, San Francisco']","['IEEE Fellow', 'ACM Fellow', 'Fellow of the ACMI']"
+Norbert Wiener,"['Tufts College', 'Cornell University', 'Harvard University']","['Bôcher Memorial Prize', 'National Medal of Science']"
+Adriaan van Wijngaarden,['Delft University of Technology'],['IEEE Computer Pioneer Award']
+Mary Allen Wilkes,"['Wellesley College', 'Harvard Law School']",[]
+Maurice Wilkes,"['King Edward VI College, Stourbridge', 'University of Cambridge']","['Turing Award', 'Distinguished Fellow of the British Computer Society', 'Faraday Medal', 'Harold Pender Award', 'Mountbatten Medal']"
+Yorick Wilks,['University of Cambridge'],[]
+James H. Wilkinson,"['Trinity College, Cambridge']","['Chauvenet Prize', 'ACM Turing Award', 'FRS']"
+Sophie Wilson,"['Selwyn College, Cambridge', 'University of Cambridge']","['Fellow of the Royal Academy of Engineering', 'Computer History Museum', 'Fellow of the Royal Society', 'Fellow of Selwyn College', 'Honorary Doctorate', 'Distinguished Fellow of the British Computer Society']"
+Shmuel Winograd,"['New York University', 'Massachusetts Institute of Technology']",[]
+Terry Winograd,"['Colorado College', 'Massachusetts Institute of Technology']",['IJCAI Computers and Thought Award']
+Patrick Winston,['MIT'],['IJCAI Computers and Thought Award']
+Niklaus Wirth,"['Université Laval', 'University of California, Berkeley']","['IEEE Emanuel R. Piore Award', 'Turing Award', 'SIGPLAN', 'Computer History Museum', 'Marcel Benoist Prize']"
+Neil Wiseman,"['University of Cambridge', 'University of Illinois', 'Queen Mary College']",[]
+Dennis E. Wisnosky,[],[]
+Stephen Wolfram,"['Dragon School', 'Eton College', ""St. John's College, Oxford"", 'California Institute of Technology']",['MacArthur Fellowship']
+Mike Woodger,['University College London'],[]
+Philip Woodward,['Oxford University'],"['Royal Academy of Engineering', 'IEEE Dennis J. Picard Medal for Radar Technologies and Applications', 'Worshipful Company of Clockmakers']"
+Beatrice Worsley,"['University of Toronto', 'Massachusetts Institute of Technology', 'University of Cambridge']",[]
+Steve Wozniak,"['University of Colorado Boulder', 'De Anza College', 'University of California, Berkeley', 'BSE']",[]
+Jie Wu,[],[]
+William Wulf,"['University of Illinois Urbana-Champaign', 'University of Virginia']",[]
+Mihalis Yannakakis,"['National Technical University of Athens', 'Princeton University']",['Knuth Prize']
+Andrew Yao,"['National Taiwan University', 'Harvard University', 'University of Illinois at Urbana–Champaign']","['Pólya Prize (SIAM)', 'Knuth Prize', 'Turing Award', 'Kyoto Prize']"
+John Yen,"['University of California, Berkeley', 'Santa Clara University', 'National Taiwan University', 'National Hsinchu Senior High School']","['IEEE', 'Fellow', 'AAAI Senior Member']"
+Nobuo Yoneda,['University of Tokyo'],[]
+Edward Yourdon,['Massachusetts Institute of Technology'],[]
+Moti Yung,['Columbia University'],"['Computer Pioneer Award', 'McDowell Award', 'ACM Fellow', 'EATCS Fellow', 'IEEE Fellow', 'IACR Fellow']"
+Lotfi A. Zadeh,"['University of Tehran', 'Massachusetts Institute of Technology', 'Columbia University']","['Eringen Medal', 'IEEE Hamming Medal', 'Rufus Oldenburger Medal', 'IEEE Medal of Honor', 'BBVA Foundation Frontiers of Knowledge Award', 'Honorary Doctorate', 'Tehran University', 'ACM Fellow', 'IEEE Fellow', 'AAAS', 'AAAI', 'National Academy of Engineering']"
+Hans Zantema,[],[]
+Arif Zaman,"['Stanford University', 'Harvey Mudd College', 'Claremont Graduate University']",[]
+Stanley Zdonik,['Massachusetts Institute of Technology'],[]
+Hussein Zedan,['University of Bristol'],[]
+Shlomo Zilberstein,"['University of California, Berkeley', 'Technion – Israel Institute of Technology']",[]
+Jill Zimmerman,"['Purdue University', 'University of Minnesota']",[]
+Mark Zuckerberg,['Harvard University'],[]
+Konrad Zuse,['Technical University of Berlin'],"['Werner von Siemens Ring', 'Harry H. Goode Memorial Award', 'George Stibitz', 'Wilhelm Exner Medal', 'Order of Merit of the Federal Republic of Germany', 'Computer History Museum']"
