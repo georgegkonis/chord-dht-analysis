@@ -1,5 +1,6 @@
-from IPython.core.display_functions import display
+from __future__ import annotations
 
+import logging
 from src.chord_dht.chord_node import ChordNode
 
 
@@ -40,41 +41,42 @@ class Chord:
         The nodes in the Chord ring in order of ascending node IDs.
         :return: An ordered list of the nodes in the ring.
         """
-        return sorted(self.nodes.values(), key=lambda n: n.nid)
+        return sorted(self.nodes.values(), key=lambda node: node.id)
 
-    def node_join(self, nid: int) -> None:
+    def join(self, node_id: int) -> ChordNode:
         """
         Creates a new Chord node and joins it to the Chord ring.
-        :param nid: The ID of the node to join the ring.
+        :param node_id: The ID of the node to join the ring.
+        :return: The new Chord node.
         :raises ValueError: If the node ID is out of bounds or already in use.
         """
-        if nid < 0 or nid >= 2 ** self.m:
-            raise ValueError("Node ID out of bounds.")
+        if node_id < 0 or node_id >= 2 ** self.m:
+            raise ValueError(f"Node ID {node_id} out of bounds for m={self.m}.")
 
-        if nid in self.nodes:
-            raise ValueError("Node ID already in use.")
+        if node_id in self.nodes:
+            raise ValueError(f"Node ID {node_id} already in use.")
 
-        node = ChordNode(nid, self.m)
+        self.nodes[node_id] = ChordNode(node_id, self.m)
 
-        # If the ring is empty, the new node is the only node in the ring.
-        if len(self) == 0:
-            node.join(None)
-            self.nodes[nid] = node
-            print(f"Node {nid} is the first node in the ring.")
-
-        # Otherwise, the new node joins the ring through the first existing node.
+        if len(self) == 1:
+            logging.info(f"Node {node_id} joined the ring as the first node.")
         else:
-            first_node = self.nodes_in_order[0]
-            node.join(self.nodes_in_order[0])
-            self.nodes[nid] = node
-            print(f"Node {nid} joined through node {first_node.nid}.")
+            self.nodes[node_id].join(self.nodes_in_order[0])
+            logging.info(f"Node {node_id} joined the ring.")
 
-    def node_leave(self, node_id: int) -> None:
+        return self.nodes[node_id]
+
+    def leave(self, node_id: int) -> None:
         """
         Removes a Chord node from the Chord ring.
         :param node_id: The ID of the node to leave the ring.
         """
-        raise NotImplementedError("Not yet implemented.")
+        if node_id not in self.nodes:
+            raise ValueError("Node ID not in the ring.")
+
+        self.nodes.pop(node_id).leave()
+
+        logging.info(f"Node {node_id} left the ring.")
 
     def insert(self, key: str, value: object) -> None:
         """
@@ -84,42 +86,24 @@ class Chord:
         :raises ValueError: If the ring is empty.
         """
         if not self.nodes:
-            raise ValueError("No nodes in the Chord ring.")
+            raise ValueError("Cannot insert into an empty Chord ring.")
 
-        node = self.nodes[0]
-        node.insert(key, value)
+        self.nodes_in_order[0].insert(key, value)
+
+        logging.info(f"Inserted key {key} with value {value}.")
 
     def lookup(self, key: str) -> object or None:
         """
         Looks up a key in the Chord ring.
         :param key: The key to lookup.
-        :return: The value associated with the key, or ``None`` if the key cannot be found.
+        :return: The value associated with the key, or `None` if the key cannot be found.
         :raises ValueError: If the ring is empty.
         """
         if not self.nodes:
-            raise ValueError("No nodes in the Chord ring.")
+            raise ValueError("Cannot lookup in an empty Chord ring.")
 
-        return self.nodes[0].lookup(key)
+        value = self.nodes_in_order[0].lookup(key)
 
+        logging.info(f"Lookup key {key} returned value {value}.")
 
-if __name__ == "__main__":
-
-    data = {
-        "Stanford": {"name": "Zuckerberg", "awards": 2},
-        "MIT": {"name": "Gates", "awards": 3},
-        "Harvard": {"name": "Buffett", "awards": 1},
-        "Princeton": {"name": "Bezos", "awards": 4},
-        "Yale": {"name": "Clinton", "awards": 1},
-        "Columbia": {"name": "Obama", "awards": 2},
-        "Chicago": {"name": "Bernanke", "awards": 1},
-        "Caltech": {"name": "Feynman", "awards": 3},
-        "Penn": {"name": "Trump", "awards": 0}
-    }
-
-    m = 2
-    chord = Chord(m)
-
-    for i in range(2 ** m):
-        chord.node_join(i)
-
-    print('\n', chord)
+        return value

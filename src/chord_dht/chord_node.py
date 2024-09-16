@@ -1,20 +1,27 @@
-import hashlib
+from __future__ import annotations
+
+import logging
+from typing import Optional
+from src.chord_dht.chord_utils import *
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 class ChordNode:
     """
-    A node in a Chord-DHT ring.
-    :cvar nid: The ID of the node.
+    A Chord-DHT node.
+    :cvar id: The ID of the node.
     :cvar m: The number of bits in the hash space of the Chord ring.
-    :cvar prev: The previous node in the ring.
+    :cvar successor: The next node in the ring.
+    :cvar predecessor: The previous node in the ring.
     :cvar fingers: The finger table of the node.
     :cvar data: The key-value pairs stored in the node.
     """
-    nid: int
+    id: int
     m: int
-    next: 'ChordNode'
-    prev: 'ChordNode'
-    fingers: list['ChordNode']
+    successor: ChordNode
+    predecessor: ChordNode
+    fingers: list[ChordNode]
     data: dict[str, object]
 
     def __init__(self, nid: int, m: int):
@@ -23,11 +30,11 @@ class ChordNode:
         :param nid: The ID of the node.
         :param m: The number of bits in the ID hash space of the Chord ring.
         """
-        self.nid = nid
+        self.id = nid
         self.m = m
-        self.next = self
-        self.prev = self
-        self.fingers = [self] * m
+        self.successor = self
+        self.predecessor = self
+        self.fingers = [self] * self.m
         self.data = {}
 
     def __str__(self) -> str:
@@ -35,88 +42,165 @@ class ChordNode:
         A string representation of the Chord node.
         :return: A string representation of the Chord node.
         """
-        return f"{self.nid}: Fingers: {[finger.nid for finger in self.fingers]} Next: {self.next.nid} Prev: {self.prev.nid}"
+        return f"{self.id}: Fingers: {[finger.id for finger in self.fingers]} Next: {self.successor.id} Prev: {self.predecessor.id}"
 
-    def join(self, node: 'ChordNode' or None):
+    def join(self, node: ChordNode):
         """
-        Joins a node to the Chord ring.
-        :param node: The node to use as a starting point for joining the ring. If ``None``, the node joins as the first
-        node in the ring.
+        Joins the node to the Chord ring.
+        :param node: The node to join to the Chord ring.
         """
-        if node:
-            self.init_fingers(node)
+        if not node:
+            raise ValueError("Node to join cannot be None.")
 
-            self.next = self.fingers[0]
-            self.prev = self.next.prev
+        self.successor = node._find_successor(self.id)
+        self.predecessor = self.successor.predecessor
 
-            self.update_others()
+        logging.info(f"Node {self.id} is joining the ring between {self.predecessor.id} and {self.successor.id}...")
 
-    def insert(self, key: str, value: object):
+        self.successor.predecessor = self
+        self.predecessor.successor = self
+
+        self._init_fingers()
+        self._update_others_fingers()
+        self._pull_data_from_successor()
+
+    def leave(self):
         """
-        Inserts a key-value pair into the Chord ring.
+        Leaves the Chord ring.
+        """
+        logging.info(f"Node {self.id} is leaving the ring...")
+
+        self._replace_in_others_fingers()
+        self._push_data_to_successor()
+
+        self.successor.predecessor = self.predecessor
+        self.predecessor.successor = self.successor
+        self.successor = self.predecessor = self
+        self.fingers = [self] * self.m
+
+    def insert(self, key: str, value: object) -> None:
+        """
+        Inserts a key and its associated value into the Chord ring.
         :param key: The key to insert.
-        :param value: The value to store with the key.
+        :param value: The value to insert.
         """
-        node_id = self.hash_id(key)
-        successor = self.successor(node_id)
-        successor.data[key] = value
+        key_id = hash_id(key, self.m)
+        node = self._find_successor(key_id)
 
-    def lookup(self, key: str) -> object or None:
+        logging.info(f"Inserting key {key} into node {node.id}...")
+
+        node.data[key] = value
+
+    def lookup(self, key: str) -> Optional[object]:
         """
-        Looks up a key in the Chord ring.
+        Looks up a key in the Chord ring and returns the associated value.
         :param key: The key to lookup.
-        :return: The value associated with the key, or None if the key is not found.
+        :return: The value associated with the key, or ``None`` if the key cannot be found.
         """
-        node_id = self.hash_id(key)
-        successor = self.successor(node_id)
-        return successor.data.get(key, None)
+        key_id = hash_id(key, self.m)
+        node = self._find_successor(key_id)
 
-    def successor(self, nid: int) -> 'ChordNode':
-        """
-        Finds the successor node for a given ID.
-        :param nid: The ID to find the successor for.
-        :return: The successor node for the given ID.
-        """
-        return self if is_successor(nid, self) else self.next.successor(nid)
+        logging.info(f"Looking up key {key} in node {node.id}...")
 
-    def init_fingers(self, node: 'ChordNode'):
+        return node.data[key] if key in node.data else None
+
+    def delete(self, key: str) -> None:
         """
-        Initializes the finger table of the node.
-        :param node: The node to use as a starting point for initializing the finger table.
+        Deletes a key and its associated value from the Chord ring.
+        :param key: The key to delete.
+        """
+        key_id = hash_id(key, self.m)
+        node = self._find_successor(key_id)
+
+        logging.info(f"Deleting key {key} from node {node.id}...")
+
+        if key in node.data:
+            del node.data[key]
+
+    def _find_closest_finger(self, target_id: int) -> ChordNode:
+        """
+        Finds the closest finger that precedes the target ID.
+        :param target_id: The ID to find the closest finger for.
+        :return: The closest finger that precedes the target ID.
+        """
+        for i in range(self.m - 1, -1, -1):
+            finger = self.fingers[i]
+            if in_open_range(self.id, target_id, finger.id):
+                return finger
+
+        return self
+
+    def _find_successor(self, target_id: int) -> ChordNode:
+        """
+        Finds the successor node for the target ID.
+        :param target_id: The ID to find the successor for.
+        :return: The successor node for the target ID.
+        """
+        if self.id == target_id:
+            return self
+        if in_right_closed_range(self.id, self.successor.id, target_id):
+            return self.successor
+        else:
+            return self._find_closest_finger(target_id)._find_successor(target_id)
+
+    def _find_predecessor(self, target_id: int) -> ChordNode:
+        """
+        Finds the predecessor node for the target ID.
+        :param target_id: The ID to find the predecessor for.
+        :return: The predecessor node for the target ID.
+        """
+        node = self
+        while not in_right_closed_range(node.id, node.successor.id, target_id):
+            node = node._find_closest_finger(target_id)
+        return node
+
+    def _init_fingers(self):
+        """
+        Initializes the fingers of the node.
         """
         for i in range(self.m):
-            fid = (self.nid + 2 ** i) % (2 ** self.m)
-            self.fingers[i] = node.successor(fid)
+            finger_id = (self.id + 2 ** i) % (2 ** self.m)
+            self.fingers[i] = self._find_successor(finger_id)
 
-    def update_others(self):
+    def _update_others_fingers(self):
         """
-        Updates the finger tables of other nodes in the ring to reflect the new node.
+        Updates the fingers of other nodes to include this node, if necessary.
         """
-        node = self.next
+        node = self.successor
         while node != self:
-            node.update_fingers(self)
-            node = node.next
+            node.fingers = [self._find_successor((node.id + 2 ** i) % (2 ** self.m)) for i in range(self.m)]
+            node = node.successor
 
-    def hash_id(self, key: str) -> int:
+    def _replace_in_others_fingers(self):
         """
-        Computes the node ID for a given key by hashing the key into the hash space.
-        :param key: The key to hash.
-        :return: The ID of the node responsible for the key.
+        Replaces this node in the fingers of other nodes with its successor.
         """
-        key_hash = hashlib.sha1(key.encode())
-        return int(key_hash.hexdigest(), 16) % (2 ** self.m)
+        node = self.successor
+        while node != self:
+            node.fingers = [self.successor if finger == self else finger for finger in node.fingers]
+            node = node.successor
 
+    def _pull_data_from_successor(self):
+        """
+        Pulls all data, this node should store, from its successor node.
+        """
+        if self == self.successor:
+            return
 
-def is_successor(nid: int, node: ChordNode) -> bool:
-    """
-    Determines if a node is the successor of a given ID.
-    :param nid: The ID to check the successor for.
-    :param node: The node to check if it is the successor.
-    :return: True if the node is the successor, False otherwise.
-    """
-    if node.next is node:
-        return True
-    if node.nid <= node.next.nid:
-        return node.nid < nid < node.next.nid
-    else:
-        return node.nid < nid or nid < node.next.nid
+        transfer_data = {
+            key: self.successor.data.pop(key)
+            for key in list(self.successor.data)
+            if in_right_closed_range(self.predecessor.id, self.id, hash_id(key, self.m))
+        }
+
+        self.data.update(transfer_data)
+
+    def _push_data_to_successor(self):
+        """
+        Pushes all data, this node has stored, to its successor node.
+        """
+        if self == self.successor:
+            return
+
+        self.successor.data.update(self.data)
+        self.data.clear()
