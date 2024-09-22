@@ -2,3 +2,5 @@
 .venv/
 requirements.txt
 *egg-info/
+report/auxil
+report/out
