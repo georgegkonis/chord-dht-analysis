@@ -20,7 +20,7 @@ class ChordNode:
     successor: ChordNode
     predecessor: ChordNode
     fingers: list[ChordNode]
-    data: dict[str, object]
+    data: dict[str, list[object]]
 
     def __init__(self, nid: int, m: int):
         """
@@ -87,9 +87,9 @@ class ChordNode:
 
         logging.info(f"Inserting key {key} into node {node.id}...")
 
-        node.data[key] = value
+        node.data.setdefault(key, []).append(value)
 
-    def lookup(self, key: str) -> Optional[object]:
+    def lookup(self, key: str) -> list[object]:
         """
         Looks up a key in the Chord ring and returns the associated value.
         :param key: The key to lookup.
@@ -100,7 +100,7 @@ class ChordNode:
 
         logging.info(f"Looking up key {key} in node {node.id}...")
 
-        return node.data[key] if key in node.data else None
+        return node.data[key] if key in node.data else []
 
     def delete(self, key: str) -> None:
         """

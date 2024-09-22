@@ -92,18 +92,18 @@ class Chord:
 
         logging.info(f"Inserted key {key} with value {value}.")
 
-    def lookup(self, key: str) -> object or None:
+    def lookup(self, key: str) -> list[object]:
         """
         Looks up a key in the Chord ring.
         :param key: The key to lookup.
-        :return: The value associated with the key, or `None` if the key cannot be found.
+        :return: The data stored with the key, or None if the key is not found.
         :raises ValueError: If the ring is empty.
         """
         if not self.nodes:
             raise ValueError("Cannot lookup in an empty Chord ring.")
 
-        value = self.nodes_in_order[0].lookup(key)
+        data = self.nodes_in_order[0].lookup(key)
 
-        logging.info(f"Lookup key {key} returned value {value}.")
+        logging.info(f"Lookup key {key} returned value {data}.")
 
-        return value
+        return data
