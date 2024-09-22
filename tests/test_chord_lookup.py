@@ -18,6 +18,6 @@ class TestChordLookup(unittest.TestCase):
         self.chord.insert('b', 'val_b')
         self.chord.insert('c', 'val_c')
 
-        self.assertEqual('val_a', self.chord.lookup('a'))
-        self.assertEqual('val_b', self.chord.lookup('b'))
-        self.assertEqual('val_c', self.chord.lookup('c'))
+        self.assertEqual(['val_a'], self.chord.lookup('a'))
+        self.assertEqual(['val_b'], self.chord.lookup('b'))
+        self.assertEqual(['val_c'], self.chord.lookup('c'))
