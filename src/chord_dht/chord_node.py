@@ -4,8 +4,6 @@ import logging
 from typing import Optional
 from src.chord_dht.chord_utils import *
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 
 class ChordNode:
     """
